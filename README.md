@@ -51,6 +51,6 @@ https://github.com/ThiagoDeSena/Conversor-De-Moedas/assets/110785400/8fae4fb4-05
 
 ## Desenvolvedores
 
-[<img src="https://media.licdn.com/dms/image/D4E35AQFJkU439fActQ/profile-framedphoto-shrink_400_400/0/1698097968031?e=1715540400&v=beta&t=VdZUAGax4wmt-TX6zh2bUZ80rPDE__MLTAtpaqE0zsI" width=115><br><sub>Thiago De Sena</sub>](https://www.linkedin.com/in/thiago-de-sena-ab5b09179/)
+[<img src="https://avatars.githubusercontent.com/u/110785400?v=4" width=115><br><sub>Thiago De Sena</sub>](https://www.linkedin.com/in/thiago-de-sena-ab5b09179/)
 
 
