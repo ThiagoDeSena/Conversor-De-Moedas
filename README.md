@@ -32,7 +32,7 @@ Este projeto desenvolve um conversor de moedas completo em Java, utilizando a AP
 
 ## Como usar
 
-https://github.com/ThiagoDeSena/Conversor-De-Moedas/assets/110785400/8fae4fb4-0564-44d2-ad78-7e63c2a264c5
+https://github.com/ThiagoDeSena/Conversor-De-Moedas/assets/110785400/1f1a1a83-219b-41e3-85ce-024c98e49d06
 
 ## Benefícios
 
